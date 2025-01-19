@@ -1,5 +1,7 @@
 # File Renamer
 
+![NumberBoi Banner](https://raw.githubusercontent.com/amisana/numberboi/main/iconset/numberboibanner/numberboibanner04.png)
+
 A simple AppleScript utility that renames files in a selected folder using a base name and sequential numbering.
 
 ## Features
