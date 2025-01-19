@@ -1,4 +1,4 @@
-# File Renamer
+# NumberBoi
 
 ![NumberBoi Banner](https://raw.githubusercontent.com/amisana/numberboi/main/iconset/numberboibanner/numberboibanner04.png)
 
